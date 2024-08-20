@@ -1,4 +1,4 @@
-# DJ-Scripts
+# DJ
 A wrapper around yt-dlp to quickly download songs for mixing at home.
 
 ## Setup
