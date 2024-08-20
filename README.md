@@ -1,6 +1,12 @@
 # DJ-Scripts
 A wrapper around yt-dlp to quickly download songs for mixing at home.
 
+## Setup
+
+Before starting ensure you have the following installed:
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation)
+* Python 3.8+
+
 ## Configuration
 
 **Configuring default output directory**
