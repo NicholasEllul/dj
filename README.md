@@ -15,9 +15,10 @@ Before starting ensure you have the following installed:
 **Using this tool from anywhere in your terminal**
 * To call this tool from any directory in your terminal, you should add this repository's path to your PATH environment variable. Instructions on how to do so vary between MacOS/Linux & Windows.
 
-## Usage
-> SoundCloud and YouTube are supported
+> [!NOTE]  
+> Unless you add this repository to your PATH variable, you will need to manually specify the path to your `dj` executable each time you invoke the command.
 
+## Usage
 ### SoundCloud
 
 **Search and download a track**
@@ -45,3 +46,4 @@ dj yt -s "Search term here" -o "path/to/output/dir"
 ```sh
 dj yt -u "https://www.youtube.com/watch?v=abcdefgh" -o "path/to/output/dir"
 ```
+
